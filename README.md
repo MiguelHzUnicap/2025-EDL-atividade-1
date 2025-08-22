@@ -1,6 +1,6 @@
 # Atividade 1 – Estrutura de Dados Lineares
 
-**Aluno:** `<SEU NOME COMPLETO AQUI>`
+**Aluno:** `Miguel Reis Henroz`
  
 O objetivo é:
 1. Revisar como funcionam o Git, o GitHub.  
